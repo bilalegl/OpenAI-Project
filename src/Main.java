@@ -7,7 +7,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class Main {
-    private static final String API_KEY = "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";
+    private static final String API_KEY = "YOUR_API_KEY_HERE"; // Replace with your OpenAI API key
     private static final String API_URL = "https://api.openai.com/v1/chat/completions";
 
     public static void main(String[] args) {
